@@ -1,0 +1,55 @@
+
+#
+Occupation Analysis
+Customers in occupation X have the
+highest average purchase value of ₹Y.
+
+Customers in occupation A have the
+lowest average purchase value of ₹B.
+
+This suggests that occupation influences
+spending behavior and purchasing power.
+
+#
+City Category
+Customers from City Category C have the
+highest average purchase value.
+
+City Category A customers have the
+lowest average purchase value.
+
+The difference suggests that customers
+in smaller or emerging cities may be
+making higher-value purchases than
+customers in metro cities.
+
+Recommendation
+Allocate more premium product campaigns
+and targeted promotions toward City
+Category C customers to maximize revenue.
+
+
+
+#
+Product Category 10 generates the highest
+average purchase value at nearly ₹20K.
+
+Product Categories 7 and 6 also show
+strong customer spending patterns.
+
+Product Categories 20, 13, and 12
+generate significantly lower purchase values.
+
+This suggests that customer spending is
+highly concentrated in a few product categories.
+
+Business Recommendation
+Increase inventory, promotions, and
+cross-selling opportunities for Categories
+10, 7, and 6.
+
+Review low-performing categories to
+determine whether they need better
+marketing support or portfolio optimization.
+
+
