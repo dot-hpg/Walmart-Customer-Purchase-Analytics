@@ -93,7 +93,8 @@ Includes:
 * City Category Analysis
 * Product Category Analysis
 
-**Tableau Public Link:** *(Add after publishing)*
+**Tableau Public Link:** **Tableau Public Dashboard:**
+https://public.tableau.com/views/WalmartAnalysis_17822994672750/Customer_Insights_Dashboard
 
 ---
 
