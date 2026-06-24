@@ -15,6 +15,6 @@
 
 6. Business Recommendations
 
-7. Tableau Dashboard Link
+7. Tableau Dashboard Link : https://public.tableau.com/views/WalmartAnalysis_17822994672750/Customer_Insights_Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 8. Project Learnings
